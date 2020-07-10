@@ -1,0 +1,18 @@
+.explain {
+  margin: 0 auto;
+  display: flex;
+  width: 720px;
+  font-family: "Exo 2", sans-serif;
+}
+
+.explain img.status-icon {
+  margin-right: 10px;
+  width: auto;
+  height: 30px;
+}
+
+.explain p.text {
+  margin: 0px;
+  font-size: 20px;
+  text-align: left;
+}

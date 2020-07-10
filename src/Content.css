@@ -1,0 +1,15 @@
+.content {
+  margin: 0;
+  padding: 20px 0px;
+  background-color: #e7ebed;
+  text-align: center;
+}
+
+.content img.screen-shot {
+  display: block;
+  margin: 0 auto;
+}
+
+.content img.menubar {
+  margin: 20px auto 40px;
+}
