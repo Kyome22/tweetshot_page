@@ -8,6 +8,7 @@
   color: #ffffff;
   background-color: #525252;
   display: flex;
+  z-index: 2;
 }
 
 .header .title {

@@ -11,7 +11,7 @@ export function Content() {
   return (
     <div className="content">
       <Explain text={t("explain1")} />
-      <img className="screen-shot menubar" src={`images/${lang}/menubar.png`} />
+      <img className="screen-shot" src={`images/${lang}/menubar.png`} />
 
       <Explain text={t("explain2")} />
       <img className="screen-shot" src={`images/${lang}/overview.png`} />

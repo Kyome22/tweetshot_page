@@ -5,13 +5,15 @@
   "short_description": "For those who want to tweet quickly while working...",
   "download_url": "https://apps.apple.com/us/app/tweetshot/id1227057295",
   "explain1": "TweetShot is a utility app on the menubar.",
-  "explain2": "You can easily display the editing window by a hot-key\nand tweet quickly while working.",
-  "explain3": "You can attach a total of 4 images or just one GIF animation to the tweet.",
+  "explain2": "You can easily display the editing window by a hot-key and tweet quickly while working.",
+  "explain3": "You can attach up to 4 images or 1 animated GIF or 1 video to a tweet.",
   "explain4": "You can reply to your last tweet.",
   "explain5": "You can customize the settings and manage Twitter accounts.",
   "privacy_policy": "Privacy Policy",
   "detail": "In more detail",
   "privacy_policy_url": "https://kyome.io/privacy_policy/index.html?lang=en&id=1227057295",
   "support": "Support",
+  "mail_subject": "TweetShot Issue Report",
+  "mail_body": "# Environment\n- Version of TweetShot: [please write]\n- Version of macOS: [please write]\n\n# What You Tried\n- Relaunched the app: [Yes/No]\n\n# Short Description\n\n\n# Steps to Reproduce the Issue\n\n\n# Expected Result\n\n\n",
   "copyright": "©︎ 2017-2020 Takuto Nakamura"
 }
