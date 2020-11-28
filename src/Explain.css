@@ -1,18 +1,28 @@
 .explain {
-  margin: 0 auto;
-  display: flex;
-  width: 640px;
   font-family: "Exo 2", sans-serif;
 }
 
-.explain img.status-icon {
+.explain div.label {
+  padding: 20px;
+  display: inline-flex;
+  width: 640px;
+}
+
+.label img.status-icon {
   margin-right: 10px;
   width: auto;
   height: 30px;
 }
 
-.explain p.text {
+.label p.text {
   margin: 0px;
   font-size: 20px;
   text-align: left;
+}
+
+.explain img.screen-shot {
+  display: block;
+  margin: 0 auto;
+  padding: 20px 0;
+  filter: drop-shadow(0px 10px 25px rgba(0, 0, 0, 0.6));
 }
