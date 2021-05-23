@@ -19,3 +19,7 @@ export function Header(props: Props) {
     </div>
   );
 }
+
+export function DummyHeader() {
+  return <div className="dummy-header"></div>;
+}

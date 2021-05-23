@@ -7,7 +7,7 @@ type Props = {
   images: string[];
 };
 
-export function Explain(props: Props) {
+export default function Explain(props: Props) {
   const lang = i18n.language;
   const imgs = (images: string[]) => {
     return images.map((value, i) => (

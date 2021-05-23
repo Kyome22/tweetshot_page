@@ -1,11 +1,4 @@
 .content {
-  margin: 0;
-  padding: 60px 0 0;
   background-color: #e7ebed;
   text-align: center;
-}
-
-.content div.section {
-  margin-top: -60px;
-  padding: 60px 0 30px;
 }

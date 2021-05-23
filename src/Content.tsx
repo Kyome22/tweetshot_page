@@ -1,15 +1,16 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import { Top } from "./Top";
-import { Explain } from "./Explain";
+import Top from "./Top";
+import Explain from "./Explain";
 import "./Content.css";
 
-export function Content() {
+export default function Content() {
   const { t } = useTranslation();
 
   return (
     <div className="content">
       <Top />
+      {/* <a className="anchor" id="explains" /> */}
       <Explain text={t("explain1")} images={["menubar.png"]} />
       <Explain text={t("explain2")} images={["overview.png"]} />
       <Explain text={t("explain3")} images={["attach.png"]} />

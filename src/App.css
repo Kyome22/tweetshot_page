@@ -1,3 +1,21 @@
 .App {
   text-align: center;
 }
+
+div.section {
+  padding: 20px 0;
+}
+
+p.title {
+  margin: 0;
+  padding: 20px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+a.anchor {
+  display: block;
+  margin-top: -60px;
+  padding-top: 60px;
+  visibility: hidden;
+}
