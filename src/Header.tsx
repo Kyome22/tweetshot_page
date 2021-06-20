@@ -1,6 +1,6 @@
 import React from "react";
-import "./Header.css";
 import { useTranslation } from "react-i18next";
+import "./Header.css";
 
 type Props = {
   onLangChange: () => void;
